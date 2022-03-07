@@ -44,7 +44,7 @@ c4
 # Como se piden los valores de an y bn para 3<=n<=20, debemos calcular s1, s2, ...,s20
 
 #Construccion de la sucesion de sn desde s1 hasta s20
-n = 20  #n denota el número de iterantes que se van a calcular
+n = 20  #n denota el nÃºmero de iterantes que se van a calcular
 
 Ln = diag(N)
 sn = 0
